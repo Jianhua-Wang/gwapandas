@@ -1,7 +1,7 @@
 [tool]
 [tool.poetry]
 name = "gwapandas"
-version = "0.0.1"
+version = "0.0.2"
 homepage = "https://github.com/Jianhua-Wang/gwapandas"
 description = "Python tools for GWAS summary statistics."
 authors = ["Jianhua Wang <jianhua.mert@gmail.com>"]
